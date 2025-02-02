@@ -20,9 +20,8 @@
 ## Demo
 
 Here’s a quick demo of the **Workout Buddy** app:
-[![Watch the demo](https://github.com/user-attachments/assets/4155ed2a-6c32-44e7-b775-7f2fafb288b5)](https://vimeo.com/1052780587/c2f50fa479)
 
-[![Watch the demo](https://i.vimeocdn.com/video/1052780587/c2f50fa479.jpg)](https://vimeo.com/1052780587/c2f50fa479)
+[![Watch the demo](https://github.com/user-attachments/assets/4155ed2a-6c32-44e7-b775-7f2fafb288b5)](https://vimeo.com/1052780587/c2f50fa479)
 
 ## Getting Started
 
