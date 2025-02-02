@@ -2,6 +2,8 @@
 
 **Workout Buddy** is a fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack. It helps users log their workouts and track the exercises they perform, including load (in kg) and reps. This application also allows users to easily add and delete new exercises in their workout logs.
 
+![Screenshot 2025-02-02 214637](https://github.com/user-attachments/assets/7efbc5fc-fbe7-420f-a70c-5e9a8370800b)
+
 ## Features
 - Add and log workout exercises
 - Record load (in kg) and reps for each exercise
