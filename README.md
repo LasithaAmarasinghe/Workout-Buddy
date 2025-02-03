@@ -19,6 +19,11 @@ It helps users log their workouts and track the exercises they perform, includin
 - **React.js** - Frontend framework to create the interactive user interface
 - **Node.js** - JavaScript runtime to power the backend server
 
+![M](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![E](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![R](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![N](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ## 🎥 Demo
 
 Here’s a quick demo of the **Workout Buddy** app:
