@@ -7,11 +7,11 @@ It helps users log their workouts and track the exercises they perform, includin
 ![🖥️ Screenshot](https://github.com/user-attachments/assets/7efbc5fc-fbe7-420f-a70c-5e9a8370800b)
 
 ## 🚀 Features
-- ➕ Add and log workout exercises
-- 📊 Record load (in kg) and reps for each exercise
-- 🕒 View recent workout logs with timestamps
-- 🎨 Simple and intuitive user interface
-- 🔥 Built using the **MERN** stack
+- Add and log workout exercises
+- Record load (in kg) and reps for each exercise
+- View recent workout logs with timestamps
+- Simple and intuitive user interface
+- Built using the **MERN** stack
 
 ## 🛠️ Tech Stack
 - **MongoDB** - Database to store workout data
@@ -34,8 +34,8 @@ Here’s a quick demo of the **Workout Buddy** app:
 
 ### ✅ Prerequisites
 To run this project locally, you will need:
-- 🖥️ **Node.js** and **npm** installed on your machine
-- 🗄️ **MongoDB** (either locally or use MongoDB Atlas for cloud-based database)
+-  **Node.js** and **npm** installed on your machine
+-  **MongoDB** (either locally or use MongoDB Atlas for cloud-based database)
 
 ### 🛠️ Installation
 
@@ -92,16 +92,16 @@ To run this project locally, you will need:
 
 ## 🎯 Usage
 
-- **🏋️ Adding a Workout**: Fill in the exercise title, load (in kg), and reps, then click the **Add Workout** button to log a new workout.
-- **📅 Viewing Workouts**: View previously added exercises, including their load and rep details, along with timestamps of when they were logged.
+- **Adding a Workout**: Fill in the exercise title, load (in kg), and reps, then click the **Add Workout** button to log a new workout.
+- **Viewing Workouts**: View previously added exercises, including their load and rep details, along with timestamps of when they were logged.
 
 ## 🤝 Contributing
 
-1. 🍴 Fork the repository.
-2. 🌱 Create a new branch (`git checkout -b feature-name`).
-3. 📝 Commit your changes (`git commit -m 'Add new feature'`).
-4. 🚀 Push to the branch (`git push origin feature-name`).
-5. 📬 Open a pull request.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Open a pull request.
 
 ## 🎖️ Acknowledgements
 
